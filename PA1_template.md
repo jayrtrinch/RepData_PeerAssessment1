@@ -4,7 +4,7 @@
 
 **Jayson Trinchera**  
 **August 23, 2016**  
-**Last updated 2016-08-23 04:36:06 using R version 3.3.1 (2016-06-21)**  
+**Last updated 2016-08-23 04:45:13 using R version 3.3.1 (2016-06-21)**  
 
 
 ## **Loading and preprocessing the data**  
